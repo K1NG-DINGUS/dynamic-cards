@@ -1,0 +1,1 @@
+//Filtra informações inseridas na search bar
